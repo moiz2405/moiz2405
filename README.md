@@ -1,5 +1,5 @@
 # 🌟 Welcome! to MoizCodes🌟
-Hi, Im Almoiz khan, a 3rd-year Computer Science student with interest in DevOps, automation and cloud computing. I'm passionate about learning, exploring new technologies, and contributing to open-source projects. Excited to dive deeper into DevOps and make an impact in the tech world!
+Hi, I'm Almoiz Khan, passionate about DevOps, automation, and cloud computing. I enjoy contributing to open-source projects and am diving deeper into DevOps to make a meaningful impact in the tech world!
 
 
 ## 🌐 Socials:
