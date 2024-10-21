@@ -4,7 +4,7 @@ Hi, I'm Almoiz Khan, passionate about DevOps, automation, and cloud computing. I
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gy28DBnddU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_k_moiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/almoiz-khan-2184b8300/) 
-
+[![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
 
 
 # 💻 Tech Stack:
