@@ -4,9 +4,14 @@ Hi, I'm Almoiz Khan, passionate about DevOps, automation, and cloud computing. I
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gy28DBnddU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_k_moiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/almoiz-khan-2184b8300/) 
+
 [![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
 
-
+## Achievements
+ <a href= "https://meshery.layer5.io/user/0ee04d08-d9ff-421a-b35b-a9ad1db1d62f?tab=badges&badge=first-design" >
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+  
 # 💻 Tech Stack:
 
 
@@ -88,4 +93,9 @@ Hi, I'm Almoiz Khan, passionate about DevOps, automation, and cloud computing. I
 ---
 [![](https://visitcount.itsvg.in/api?id=moiz2405&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
