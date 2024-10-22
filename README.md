@@ -1,9 +1,23 @@
-# 🌟 Welcome! to MoizCodes🌟
-Hi, I'm Almoiz Khan, passionate about DevOps, automation, and cloud computing. I enjoy contributing to open-source projects and am diving deeper into DevOps to make a meaningful impact in the tech world!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=30&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Almoiz+Khan;Welcome+to+my+GitHub+👋;Aspiring+DevOps+Engineer;Open+Source+Contributor&pause=1500&duration=3000" alt="Typing SVG" />
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/moiz2405/moiz2405/main/output/snake.svg)
+
+
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gy28DBnddU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_k_moiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/almoiz-khan-2184b8300/) 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+
 
 [![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
 
@@ -91,7 +105,11 @@ Hi, I'm Almoiz Khan, passionate about DevOps, automation, and cloud computing. I
 ![](https://github-contributor-stats.vercel.app/api?username=moiz2405&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moiz2405&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/moiz2405/count.svg?"  />
+</div>
+
+###
 
 
 
