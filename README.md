@@ -1,10 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=30&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Almoiz+Khan;Welcome+to+my+GitHub+👋;Aspiring+DevOps+Engineer;Open+Source+Contributor&pause=1500&duration=3000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=30&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Almoiz+Khan;Welcome+to+my+GitHub+👋;DevOps+Engineer;Open+Source+Contributor&pause=1500&duration=3000" alt="Typing SVG" />
+</div>
+<div align="left">
+
+### Almoiz Khan
+**Hyderabad, India**  
+3rd Year CSE Undergrad  
+
+  Full Stack Developer 
+---
+
+
+-  Currently studying Computer Science and Engineering (94% aggregate).
+-  Smart India Hackathon Finalist | Interned at Google India.
+-  Active open-source contributions.
+-  Exploring CI/CD, container security, and encryption techniques in DevOps.
+  
+---
+
 </div>
 
-
-
-## 🌐 Socials:
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -14,14 +29,15 @@
 
 ###
 
-
-
-[![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
-
+---
 ## Achievements
+[![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
+---
  <a href= "https://meshery.layer5.io/user/0ee04d08-d9ff-421a-b35b-a9ad1db1d62f?tab=badges&badge=first-design" >
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
+
+---
   
 # 💻 Tech Stack:
 
