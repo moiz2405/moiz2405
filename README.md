@@ -86,16 +86,13 @@
 
 ---
 ## Achievements
-[![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
----
  <a href= "https://meshery.layer5.io/user/0ee04d08-d9ff-421a-b35b-a9ad1db1d62f?tab=badges&badge=first-design" >
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
 
 ---
-  
-
-
+[![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
+---
 
 
 
@@ -107,8 +104,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moiz2405&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=moiz2405&limit=5&theme=dark&combine_all_yearly_contributions=true)
