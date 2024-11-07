@@ -96,11 +96,14 @@
 
 ---
 ## Achievements
+ <summary><b>Layer-5 badges</b></summary><br>
  <a href= "https://meshery.layer5.io/user/0ee04d08-d9ff-421a-b35b-a9ad1db1d62f?tab=badges&badge=first-design" >
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
 
 ---
+ <summary><b>HacktoberFest(24) Badges</b></summary><br>
+
 [![An image of @moiz2405's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moiz2405)](https://holopin.io/@moiz2405)
 ---
 
@@ -113,9 +116,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
 </a>
 </div>
-
-
-
 
 
 
