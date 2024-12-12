@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=30&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Almoiz+Khan;Welcome+to+my+GitHub+👋;DevOps+Engineer;Open+Source+Contributor&pause=1500&duration=3000" alt="Typing SVG" />
 </div>
 <div align="left">
+<h1>Almoiz Khan</h1>
 
-### Almoiz Khan
 **Hyderabad, India**  
 3rd Year CSE Undergrad  
 
