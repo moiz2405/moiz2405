@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=30&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Almoiz+Khan;Welcome+to+my+GitHub+👋;DevOps+Engineer;Open+Source+Contributor&pause=1500&duration=3000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B93E&size=30&center=true&vCenter=true&width=550&lines=Hi%2C+Welcome+to+my+GitHub+👋;Full+Stack+Developer;DevOps+Engineer;Open+Source+Contributor&pause=1500&duration=3000" alt="Typing SVG" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <h1 style="margin: 0;">
     Almoiz Khan
+    <a href="https://almoizkhan.me" target="_blank" style="font-size: 16px; margin-left: 10px; text-decoration: none;">
+      Portfolio
+    </a>
   </h1>
   <div style="display: flex;">
     <a href="https://www.linkedin.com/in/almoiz-khan-2184b8300/" target="_blank">
@@ -53,6 +56,9 @@ Full Stack Developer | DevOps Engineer
 
 # Featured Projects
 
+<details>
+  <summary style="font-size: 50px; font-weight: bold; cursor: pointer; display: inline-block;">Projects</summary>
+
 ## 💻 [CodeNexus | Skill Development Platform](https://codenexus.almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-000000?style=flat&logo=auth0&logoColor=white)
 > Full Stack Web Application | A platform for developers to learn and improve their skills
@@ -93,11 +99,8 @@ Full Stack Developer | DevOps Engineer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-008ACF?style=flat&logo=matplotlib&logoColor=white)
 > Python Script | Visualize Coal Mines Carbon Footprints using Pandas and Matplotlib.
 
----
+</details>
 
-
-
----
 
 <div id="tech-stack">
 
