@@ -85,8 +85,6 @@ Full Stack Developer | DevOps Engineer
 
 ---
 
----
-
 <div id="tech-stack">
 
 # 💻 Tech Stack:
