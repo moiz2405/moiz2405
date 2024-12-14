@@ -55,10 +55,6 @@ Full Stack Developer | DevOps Engineer
 ---
 
 # Featured Projects
-
-<details>
-  <summary style="font-size: 50px; font-weight: bold; cursor: pointer; display: inline-block;">Projects</summary>
-
 ## 💻 [CodeNexus | Skill Development Platform](https://codenexus.almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-000000?style=flat&logo=auth0&logoColor=white)
 > Full Stack Web Application | A platform for developers to learn and improve their skills
@@ -76,6 +72,8 @@ Full Stack Developer | DevOps Engineer
 > Full Stack Web Application | AI-based English Learning Platform built using Gemini-API.
 
 ---
+<details>
+  <summary style="font-size: 50px; font-weight: bold; cursor: pointer; display: inline-block;">More Projects </summary>
 
 ## 📁 [PortFolio | Personal Portfolio Website](https://almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![ShadCN-UI](https://img.shields.io/badge/ShadCN-UI-FF9900?style=flat&logo=shadcn&logoColor=white)
@@ -101,6 +99,7 @@ Full Stack Developer | DevOps Engineer
 
 </details>
 
+---
 
 <div id="tech-stack">
 
