@@ -150,9 +150,6 @@ Full Stack Developer | DevOps Engineer
 ---
 
 
-
----
-
 <div id="achievements">
 
 ## 🏆 Achievements
