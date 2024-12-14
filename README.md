@@ -53,35 +53,80 @@ Full Stack Developer | DevOps Engineer
 
 <div id="projects">
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="left">
-  <a href="#" style="text-decoration: none;">
-    <h3>🔐 SecureCI Pipeline</h3>
-    <p>Advanced CI/CD pipeline with integrated security scanning and automated deployment</p>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white"/>
-  </a>
   
-  <a href="#" style="text-decoration: none;">
-    <h3>☁️ CloudOps Dashboard</h3>
-    <p>Unified dashboard for multi-cloud infrastructure management and monitoring</p>
+  <a href="https://codenexus.almoizkhan.me" style="text-decoration: none;">
+    <h3>💻 CodeNexus | Skill Development Platform</h3>
+    <p>Full Stack Web Application | A platform for developers to learn and improve their skills</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Auth0-000000?style=flat&logo=auth0&logoColor=white"/>
+  </a>
+
+  <a href="https://metamint.almoizkhan.me" style="text-decoration: none;">
+    <h3>🎨 MetaMint | NFT Marketplace</h3>
+    <p>Full Stack Web Application | A platform for creators to mint, sell, and buy NFTs.</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white"/>
+  </a>
+
+  <a href="https://fluentai.almoizkhan.me" style="text-decoration: none;">
+    <h3>🧠 Fluent.AI | AI based Language Learning Platform</h3>
+    <p>Full Stack Web Application | AI based English Learning Platform built Using Gemini-API</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gemini-API-FF4081?style=flat&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white"/>
+  </a>
+
+  <a href="https://almoizkhan.me" style="text-decoration: none;">
+    <h3>📁 PortFolio | Personal Portfolio Website</h3>
+    <p>Responsive Web Application | Personal Portfolio Website built using Next.js and Tailwind CSS</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ShadCN-UI-FF9900?style=flat&logo=shadcn&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/moiz2405/Custom-AI" style="text-decoration: none;">
+    <h3>🤖 Custom-AI | AI Components based on Chrome Built-In AI</h3>
+    <p>Different AI Components | Translator, Language Detector, Summarizer, Writer, Rewriter</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Chrome%20Built-In%20APIs-4285F4?style=flat&logo=chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/moiz2405/Aws-Montitor" style="text-decoration: none;">
+    <h3>⚙️ AWS Usage Monitor | Cost Management Tool</h3>
+    <p>Shell Script | A tool to monitor and manage AWS usage and costs</p>
+    <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
   </a>
 
-  <a href="#" style="text-decoration: none;">
-    <h3>🔄 AutoScale K8s</h3>
-    <p>Intelligent Kubernetes auto-scaling solution with ML-powered predictions</p>
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat&logo=kubernetes&logoColor=white"/>
+  <a href="https://github.com/moiz2405/coal-mine-visualizer" style="text-decoration: none;">
+    <h3>🌍 Coal Mine Visualizer | Data Visualization Tool</h3>
+    <p>Python Script | Visualize Coal Mines Carbon Footprints using Pandas and Matplotlib</p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-008ACF?style=flat&logo=matplotlib&logoColor=white"/>
   </a>
 </div>
 
 </div>
+
 
 ---
 
