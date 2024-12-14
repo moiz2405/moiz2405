@@ -51,81 +51,50 @@ Full Stack Developer | DevOps Engineer
 
 ---
 
-<div id="projects">
-
 # Featured Projects
 
-<div align="left">
-  
-  <a href="https://codenexus.almoizkhan.me" style="text-decoration: none;">
-    <h3>💻 CodeNexus | Skill Development Platform</h3>
-    <p>Full Stack Web Application | A platform for developers to learn and improve their skills</p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Auth0-000000?style=flat&logo=auth0&logoColor=white"/>
-  </a>
+## 💻 [CodeNexus | Skill Development Platform](https://codenexus.almoizkhan.me)
+![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-000000?style=flat&logo=auth0&logoColor=white)
+> Full Stack Web Application | A platform for developers to learn and improve their skills
 
-  <a href="https://metamint.almoizkhan.me" style="text-decoration: none;">
-    <h3>🎨 MetaMint | NFT Marketplace</h3>
-    <p>Full Stack Web Application | A platform for creators to mint, sell, and buy NFTs.</p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://fluentai.almoizkhan.me" style="text-decoration: none;">
-    <h3>🧠 Fluent.AI | AI based Language Learning Platform</h3>
-    <p>Full Stack Web Application | AI based English Learning Platform built Using Gemini-API</p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gemini-API-FF4081?style=flat&logo=google&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white"/>
-  </a>
+## 🎨 [MetaMint | NFT Marketplace](https://metamint.almoizkhan.me)
+![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![Next-Auth](https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white)
+> Full Stack Web Application | A platform for creators to mint, sell, and buy NFTs.
 
-  <a href="https://almoizkhan.me" style="text-decoration: none;">
-    <h3>📁 PortFolio | Personal Portfolio Website</h3>
-    <p>Responsive Web Application | Personal Portfolio Website built using Next.js and Tailwind CSS</p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ShadCN-UI-FF9900?style=flat&logo=shadcn&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://github.com/moiz2405/Custom-AI" style="text-decoration: none;">
-    <h3>🤖 Custom-AI | AI Components based on Chrome Built-In AI</h3>
-    <p>Different AI Components | Translator, Language Detector, Summarizer, Writer, Rewriter</p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Chrome%20Built-In%20APIs-4285F4?style=flat&logo=chrome&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
-  </a>
+## 🧠 [Fluent.AI | AI based Language Learning Platform](https://fluentai.almoizkhan.me)
+![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Gemini-API](https://img.shields.io/badge/Gemini-API-FF4081?style=flat&logo=google&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![Next-Auth](https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white)
+> Full Stack Web Application | AI-based English Learning Platform built using Gemini-API.
 
-  <a href="https://github.com/moiz2405/Aws-Montitor" style="text-decoration: none;">
-    <h3>⚙️ AWS Usage Monitor | Cost Management Tool</h3>
-    <p>Shell Script | A tool to monitor and manage AWS usage and costs</p>
-    <img src="https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-  </a>
+---
 
-  <a href="https://github.com/moiz2405/coal-mine-visualizer" style="text-decoration: none;">
-    <h3>🌍 Coal Mine Visualizer | Data Visualization Tool</h3>
-    <p>Python Script | Visualize Coal Mines Carbon Footprints using Pandas and Matplotlib</p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-008ACF?style=flat&logo=matplotlib&logoColor=white"/>
-  </a>
-</div>
+## 📁 [PortFolio | Personal Portfolio Website](https://almoizkhan.me)
+![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![ShadCN-UI](https://img.shields.io/badge/ShadCN-UI-FF9900?style=flat&logo=shadcn&logoColor=white)
+> Responsive Web Application | Personal Portfolio Website built using Next.js and Tailwind CSS.
 
-</div>
+---
+
+## 🤖 [Custom-AI | AI Components based on Chrome Built-In AI](https://github.com/moiz2405/Custom-AI)
+![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Chrome Built-In APIs](https://img.shields.io/badge/Chrome%20Built-In%20APIs-4285F4?style=flat&logo=chrome&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+> Different AI Components | Translator, Language Detector, Summarizer, Writer, Rewriter.
+
+---
+
+## ⚙️ [AWS Usage Monitor | Cost Management Tool](https://github.com/moiz2405/Aws-Montitor)
+![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+> Shell Script | A tool to monitor and manage AWS usage and costs.
+
+---
+
+## 🌍 [Coal Mine Visualizer | Data Visualization Tool](https://github.com/moiz2405/coal-mine-visualizer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-008ACF?style=flat&logo=matplotlib&logoColor=white)
+> Python Script | Visualize Coal Mines Carbon Footprints using Pandas and Matplotlib.
+
+---
+
 
 
 ---
