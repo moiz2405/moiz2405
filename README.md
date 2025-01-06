@@ -9,6 +9,7 @@
       Portfolio
     </a>
   </h1>
+  <h3>3rd Year CSE Undergrad  </h3>
   <div style="display: flex;">
     <a href="https://www.linkedin.com/in/almoiz-khan-2184b8300/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -25,6 +26,19 @@
   </div>
 </div>
 
+
+
+<div id="about">
+
+
+Full Stack Developer | DevOps Engineer
+---
+-  Experienced in Full Stack Development.
+-  Currently studying Computer Science and Engineering (94% aggregate).
+-  Active open-source contributions.
+-  Exploring DevOps Technologies.
+
+</div>
 <div align="center">
   <a href="#about">About</a> •
   <a href="#projects">Projects</a> •
@@ -33,29 +47,9 @@
   <a href="#stats">Stats</a>
 </div>
 
-<div id="about">
-
-**Hyderabad, India**  
-3rd Year CSE Undergrad  
-
-Full Stack Developer | DevOps Engineer
----
-
--  Currently studying Computer Science and Engineering (94% aggregate).
--  Smart India Hackathon Finalist | Interned at Google India.
--  Active open-source contributions.
--  Exploring CI/CD, container security, and encryption techniques in DevOps.
-
-[![GitHub followers](https://img.shields.io/github/followers/moiz2405?style=social)](https://github.com/moiz2405)
-[![Years Badge](https://badges.pufler.dev/years/moiz2405)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/moiz2405)](https://badges.pufler.dev)
-
-</div>
-
----
 <div id="tech-stack">
 
-# 💻 Tech Stack:
+# Tech Stack:
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -103,19 +97,19 @@ Full Stack Developer | DevOps Engineer
 ---
 
 # Featured Projects
-## 💻 [CodeNexus | Skill Development Platform](https://codenexus.almoizkhan.me)
+## [CodeNexus | Skill Development Platform](https://codenexus.almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-000000?style=flat&logo=auth0&logoColor=white)
 > Full Stack Web Application | A platform for developers to learn and improve their skills
 
 ---
 
-## 🎨 [MetaMint | NFT Marketplace](https://metamint.almoizkhan.me)
+## [MetaMint | NFT Marketplace](https://metamint.almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![Next-Auth](https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white)
 > Full Stack Web Application | A platform for creators to mint, sell, and buy NFTs.
 
 ---
 
-## 🧠 [Fluent.AI | AI based Language Learning Platform](https://fluentai.almoizkhan.me)
+## [Fluent.AI | AI based Language Learning Platform](https://fluentai.almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Gemini-API](https://img.shields.io/badge/Gemini-API-FF4081?style=flat&logo=google&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![Next-Auth](https://img.shields.io/badge/Next-Auth-000000?style=flat&logo=next.js&logoColor=white)
 > Full Stack Web Application | AI-based English Learning Platform built using Gemini-API.
 
@@ -123,25 +117,25 @@ Full Stack Developer | DevOps Engineer
 <details>
   <summary style="font-size: 50px; font-weight: bold; cursor: pointer; display: inline-block;">More Projects </summary>
 
-## 📁 [PortFolio | Personal Portfolio Website](https://almoizkhan.me)
+## [PortFolio | Personal Portfolio Website](https://almoizkhan.me)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white) ![ShadCN-UI](https://img.shields.io/badge/ShadCN-UI-FF9900?style=flat&logo=shadcn&logoColor=white)
 > Responsive Web Application | Personal Portfolio Website built using Next.js and Tailwind CSS.
 
 ---
 
-## 🤖 [Custom-AI | AI Components based on Chrome Built-In AI](https://github.com/moiz2405/Custom-AI)
+## [Custom-AI | AI Components based on Chrome Built-In AI](https://github.com/moiz2405/Custom-AI)
 ![CodeNexus](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Chrome Built-In APIs](https://img.shields.io/badge/Chrome%20Built-In%20APIs-4285F4?style=flat&logo=chrome&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
 > Different AI Components | Translator, Language Detector, Summarizer, Writer, Rewriter.
 
 ---
 
-## ⚙️ [AWS Usage Monitor | Cost Management Tool](https://github.com/moiz2405/Aws-Montitor)
+## [AWS Usage Monitor | Cost Management Tool](https://github.com/moiz2405/Aws-Montitor)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 > Shell Script | A tool to monitor and manage AWS usage and costs.
 
 ---
 
-## 🌍 [Coal Mine Visualizer | Data Visualization Tool](https://github.com/moiz2405/coal-mine-visualizer)
+## [Coal Mine Visualizer | Data Visualization Tool](https://github.com/moiz2405/coal-mine-visualizer)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-008ACF?style=flat&logo=matplotlib&logoColor=white)
 > Python Script | Visualize Coal Mines Carbon Footprints using Pandas and Matplotlib.
 
