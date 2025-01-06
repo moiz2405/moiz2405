@@ -100,7 +100,7 @@
 
 ## Tools
 ![Custom-AI](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=Custom-AI&theme=radical)
-![AWS Usage Monitor](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=Aws-Monitor&theme=radical)
+![AWS Usage Monitor](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=Aws-Montitor&theme=radical)
 ![Coal Mine Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=coal-mine-visualizer&theme=radical)
 
 </details>
