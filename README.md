@@ -88,7 +88,8 @@
 ##  Featured Projects
 
 <div align="center">
-
+[![Craftable](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=Craftable&theme=radical)](https://craftable.almoizkhan.me)
+    
 [![CodeNexus](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=codenexus&theme=radical)](https://codenexus.almoizkhan.me)
 [![MetaMint](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=Decentralized-Marketplace&theme=radical)](https://metamint.almoizkhan.me)
 [![Fluent.AI](https://github-readme-stats.vercel.app/api/pin/?username=moiz2405&repo=Fluent.ai&theme=radical)](https://fluentai.almoizkhan.me)
